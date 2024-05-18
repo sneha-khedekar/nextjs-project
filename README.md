@@ -1,0 +1,2 @@
+# nextjs-project
+frontend / backend
